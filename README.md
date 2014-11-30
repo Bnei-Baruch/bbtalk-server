@@ -1,3 +1,4 @@
+#Entities
 - Site
  - domain
 - Conference group
@@ -16,27 +17,27 @@
      - Request to talk
  - Option to watch without participation
  - Languages (list of languages)
-Is this source (main) language?
-Member as Instructor?
-Instructor stream.
-Member who is instructor (could be translator or conference leader).
-Conference
-User
-name
-gender
-birth date
-language
-can translate from languages (language list)
-group (select from list)
-country
-city
-picture
-Group
-Users
+ - Is this source (main) language?
+ - Member as Instructor?
+ - Instructor stream.
+ - Member who is instructor (could be translator or conference leader).
+- Conference
+- User
+ - name
+ - gender
+ - birth date
+ - language
+ - can translate from languages (language list)
+ - group (select from list)
+ - country
+ - city
+ - picture
+- Group
+ - Users
 
-Role
-type
-member
-banned member
-operator
-administrator
+- Role
+ - type
+     - member
+     - banned member
+     - operator
+     - administrator
